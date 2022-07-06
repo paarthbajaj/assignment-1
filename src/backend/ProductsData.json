@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "product": "Tshirt",
+    "company": "Adidas",
+    "cost": 1999,
+    "size": "S",
+    "gender": "Men",
+    "url": "https://rukminim1.flixcart.com/image/580/696/kekadu80-0/t-shirt/m/d/t/xl-jrkbelvrl09-jorkk-original-imafv84yuhgzuamg.jpeg?q=50"
+  },
+  {
+    "id": 1,
+    "product": "Shirt",
+    "company": "Nike",
+    "cost": 2999,
+    "size": "M",
+    "gender": "Men",
+    "url": "https://rukminim1.flixcart.com/image/580/696/kfoapow0-0/shirt/1/l/t/m-c1276-gespo-original-imafw2gqdztqdkyu.jpeg?q=50"
+  },
+  {
+    "id": 3,
+    "product": "Hoodie",
+    "company": "Puma",
+    "cost": 1599,
+    "size": "L",
+    "gender": "Women",
+    "url": "https://rukminim1.flixcart.com/image/580/696/k572gsw0/sweatshirt/2/a/z/s-2929-the-dry-state-original-imafnxw8df5s2vc8.jpeg?q=50"
+  },
+  {
+    "id": 4,
+    "product": "Vest",
+    "company": "Lux",
+    "cost": 299,
+    "size": "XL",
+    "gender": "Men",
+    "url": "https://rukminim1.flixcart.com/image/580/696/jv44mfk0/vest/g/p/v/m-1pvestnycity-gry-jugular-original-imafg234dqfpt98c.jpeg?q=50"
+  },
+  {
+    "id": 5,
+    "product": "Women Kurta",
+    "company": "Biba",
+    "cost": 1899,
+    "size": "S",
+    "gender": "Women",
+    "url": "https://rukminim1.flixcart.com/image/580/696/kg8avm80-0/kurta/a/r/v/xxl-ku233-mahageeta-original-imafwgc6anhxcsms.jpeg?q=50"
+  },
+  {
+    "id": 6,
+    "product": "Saree",
+    "company": "Biba",
+    "cost": 4999,
+    "size": "M",
+    "gender": "Women",
+    "url": "https://rukminim1.flixcart.com/image/580/696/kflftzk0-0/sari/o/y/c/free-hitesh2series-fumvel-unstitched-original-imafwypg4fwky3a7.jpeg?q=50"
+  }
+]

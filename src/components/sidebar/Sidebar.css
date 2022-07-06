@@ -1,0 +1,15 @@
+.sidebar {
+  padding: 1rem 2rem;
+}
+.filters {
+  width: 80%;
+  justify-content: space-between;
+}
+.clear-filter-btn {
+  align-self: flex-start;
+  background-color: var(--pri-blue);
+  color: var(--white);
+  border: 0;
+  padding: 4px 20px;
+  border-radius: 5px;
+}

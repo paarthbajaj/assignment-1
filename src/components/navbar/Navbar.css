@@ -1,0 +1,25 @@
+.navbar {
+  background-color: var(--pri-blue);
+  align-items: center;
+  padding: 0.6rem 2rem;
+}
+.navbar-actions {
+  margin-left: auto;
+}
+.logo {
+  color: var(--white);
+  font-size: 1.5rem;
+}
+.login-btn {
+  background-color: var(--white);
+  border: 0;
+  padding: 4px 24px;
+  border-radius: 5px;
+  color: var(--pri-blue);
+}
+.cart-btn {
+  color: var(--white);
+  background-color: transparent;
+  border: 0;
+  margin-left: 2rem;
+}
